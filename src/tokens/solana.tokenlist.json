@@ -18549,7 +18549,19 @@
         "twitter": "https://twitter.com/fruchtlaborcryp"
       }
     }
-  ],
+ {
+  "chainId": 101,
+  "address": "B7TxomcUTEWy5rzLskXnhM5aPxfQMKdHHA9JuErgHxnJ",
+  "symbol": "TRRT",
+  "name": "TerraRoot",
+  "decimals": 8,
+  "logoURI": "https://raw.githubusercontent.com/Terra-Root/token-list2/main/assets/mainnet/B7TxomcUTEWy5rzLskXnhM5aPxfQMKdHHA9JuErgHxnJ/logo.png",
+  "tags": ["community"],
+  "extensions": {
+    "description": "The TerraRoot project is currently in the concept stage — an idea born from the desire to merge blockchain technology with real-world social change. Each TRRT will eventually become a symbol and a tool for investing in land, people, and local communities."
+  }
+}
+ ],
   "version": {
     "major": 0,
     "minor": 3,
